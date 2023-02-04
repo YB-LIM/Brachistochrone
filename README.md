@@ -3,7 +3,7 @@ Python script for the Linkedin video: \
 https://www.linkedin.com/feed/update/urn:li:activity:7010578968194023424/
 
 # AUTHOR
-Name: Yougbin LIM \
+Name: Youngbin LIM \
 E-mail: lyb0684@naver.com
 
 # Run command
