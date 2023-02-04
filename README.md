@@ -7,4 +7,6 @@ Name: Yougbin LIM \
 E-mail: lyb0684@naver.com
 
 # Run command
-abaqus job=Periodic user=Gaussian_Random.f int cpus=(number of cpus)
+call abaqus cae noGUI=Pre_Processing.py\
+call abaqus J=Ball_Drop int cpus=(number of cpus) ask_delete=no\
+call abaqus viewer noGUI=Post_Processing.py
