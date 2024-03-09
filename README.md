@@ -13,6 +13,3 @@ E-mail: lyb0684@naver.com
 call abaqus cae noGUI=Pre_Processing.py\
 call abaqus J=Ball_Drop int cpus=(number of cpus) ask_delete=no\
 call abaqus viewer noGUI=Post_Processing.py
-
-# Buy me a coffee
-<a href="https://www.buymeacoffee.com/lyb280199G" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
